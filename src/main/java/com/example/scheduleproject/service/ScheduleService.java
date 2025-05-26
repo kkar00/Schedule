@@ -41,7 +41,6 @@ public class ScheduleService {
                 saved.getCreatedAt(),
                 saved.getUpdatedAt()
         );
-
     }
 
     //전체 일정 조회 GET

@@ -63,6 +63,7 @@ public class ScheduleController {
 
         scheduleService.deleteSchedule(id, password);
         return ResponseEntity.ok().build();  // 본문 없이 200 OK 응답
+
     }
 
 

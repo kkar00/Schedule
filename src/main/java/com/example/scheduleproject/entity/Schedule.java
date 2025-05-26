@@ -22,5 +22,4 @@ public class Schedule extends BaseEntity {
     private String title;
     private String password;
 
-
 }

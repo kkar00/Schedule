@@ -13,3 +13,4 @@ public class GetScheduleResponseDto {
     private LocalDateTime createdAt;
     private LocalDateTime updatedAt;
 }
+
