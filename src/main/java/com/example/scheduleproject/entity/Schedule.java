@@ -22,9 +22,5 @@ public class Schedule extends BaseEntity {
     private String title;
     private String password;
 
-    //아래 부분은 BaseEntity에서 관리해주고 있음.
-//    @Column(name = "updated_at") // DB 컬럼명
-//    private LocalDateTime updatedAt;
-
 
 }
