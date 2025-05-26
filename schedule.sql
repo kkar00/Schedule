@@ -8,4 +8,5 @@ CREATE TABLE schedule (
                           name VARCHAR(255) NOT NULL,
                           password VARCHAR(255) NOT NULL,
                           updated_at DATETIME NOT NULL
+
 );
